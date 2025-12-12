@@ -18,6 +18,7 @@ img{
 h2 {
   text-decoration-line: underline;
   text-decoration-thickness: auto;
+  font-size: 40px;
 }
 
 
@@ -37,7 +38,7 @@ footer p { /* This is how you add styles for only the p text within the footer. 
 }
 h4 {
 	font-style: italic;
-	font-size: 40px;
+	font-size: 20px;
 	font-family: 'Georgia', serif;
 }
 h3 {
